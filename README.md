@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.discord.fr/PSS.png">
-</p>
-
 <h1 align="center">👋 Hello! I'm Snowy</h1>
 
 <p align="center">
