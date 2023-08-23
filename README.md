@@ -6,5 +6,5 @@
 </a>
 
 <p align="center">
-  <img src="https://api.status.gg/discord/871802494295101480">
+  <img src="https://discord.c99.nl/widget/theme-2/871802494295101480.png">
 </p>
