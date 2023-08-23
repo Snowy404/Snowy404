@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Snowy</h1>
+<h1 align="center">👋 Hi, I'm Evie!</h1>
 
 <p align="center">
 <a href="https://discord.gg/Hkt4Ef5wQV">
@@ -6,5 +6,5 @@
 </a>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/871802494295101480.png">
+  <img src="https://api.status.gg/discord/871802494295101480">
 </p>
